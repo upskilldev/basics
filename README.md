@@ -1,3 +1,5 @@
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/<mycommunity>)
+
 # Basics
 
 ## Basics - Getting Started with Software Developmemt
