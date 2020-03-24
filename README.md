@@ -12,8 +12,13 @@ Watch this wonderful video series on [How Computer Works](https://www.khanacadem
 Go through this [document](https://docs.google.com/presentation/d/1MGiFW1r-X-hPlEt7_h0zqynS66NsfmMqDqbvMKL9aek/edit?usp=sharing) giving more highlights on Hosting and how various pieces fit together on the Client-Server Model.
 
 ### Part 3 - Web - Frontend: HTML, CSS
-Learn about HTML with this course(the free part) [Introduction to HTML - Codecademy](https://www.codecademy.com/learn/learn-html)
 
+#### HTML: The basic building blocks
+Go through any of these courses to learn about HTML:
+ - Learn about HTML with this course(the free part) [Introduction to HTML - Codecademy](https://www.codecademy.com/learn/learn-html)
+ - Alternatively, if you prefer a blog-style platform, go through this series of articles in HTML and CSS [HTML- Structuring the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+
+#### CSS: All about styling
 Learn about CSS with it's partner course course(the free part) [Introduction to CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 
 Learn about building websites in a bit more detail with a similar course(the free part) [Make a website - Codecademy](https://www.codecademy.com/learn/make-a-website)
@@ -42,7 +47,17 @@ Congratulations, you completed basics of the software development!
 Optional - Watch [Responsive Web Design Fundamentals - Google and Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) to make you website responsive across devices of different sizes.
 
 ### Part 5 - Javascript
-Do the [Introduction to Javascript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) course to an idea about the Javascript language, setting a strong foundation for the Javascript used in web frontend development.
+
+#### Introduction to Javascript
+Get an idea about the Javascript language, to set a strong foundation for the Javascript used in web frontend development.
+ - Do the [Introduction to Javascript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) course
+ - Read the [Mozilla - Javascript : Dynamic Client Side Scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+ - Go through the artiles by Javascript.info https://javascript.info/getting-started
+
+#### Javascript and the Web
+Go through one of these resources to get idea on how Javascript is used in websites:
+ - Javascript.info: https://javascript.info/ui
+ - Mozilla: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs
 
 
 ### Part n - To be added later
