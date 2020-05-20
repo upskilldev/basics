@@ -1,4 +1,4 @@
-[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/upskilldev)
+[![Join the community on Spectrum to ask your doubts on the way](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/upskilldev)
 
 # Basics
 
